@@ -1,0 +1,3 @@
+[submodule "Desktop/Tetris/tetris"]
+  path = Desktop/Tetris/tetris
+  url = https://github.com/Kanatanagano/Recurison-tetoris-replace.git
