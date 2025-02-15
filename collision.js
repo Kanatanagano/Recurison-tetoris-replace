@@ -1,4 +1,4 @@
-import { updateScoreDisplay } from "./line_clear.js";
+import { updateScoreDisplay } from "./Desktop/Tetris/line_clear.js";
 export function checkCollision(mino, field) {
   // 現在の回転状態に合わせた座標配列を使用する
   const currentShape = mino.shape[mino.rotation];
